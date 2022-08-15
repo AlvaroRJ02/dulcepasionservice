@@ -1,0 +1,241 @@
+2022-07-28 20:43:23,244 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-28 20:47:14,307 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-28 20:47:36,677 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.alexandertutoriales.ecommerce.service:ProjectE-CommerceService:1.0-SNAPSHOT @ C:\Users\DieH\Desktop\Carpetas\EROS\servicio\E-Commerce-Service-master\pom.xml.
+2022-07-28 20:47:39,939 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-Service-master/src/main/java
+2022-07-28 20:47:39,940 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-Service-master/src/main/resources
+2022-07-28 20:47:39,940 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /E-Commerce-Service-master/src/main/resources
+2022-07-28 20:47:39,941 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /E-Commerce-Service-master/src/test/java
+2022-07-28 20:47:40,295 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2022-07-28 20:47:41,094 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-28 20:47:41,097 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-28 20:47:41,108 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-07-28 20:47:41,122 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-28 20:47:41,122 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\Carpetas\EROS\servicio\E-Commerce-Service-master\src\test\resources
+2022-07-28 20:47:56,110 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-28 20:47:56,111 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-28 20:47:56,111 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-28 20:47:56,112 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-28 20:47:56,113 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\Carpetas\EROS\servicio\E-Commerce-Service-master\src\test\resources
+2022-07-30 20:26:19,823 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-07-31 18:54:49,800 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-31 20:20:58,636 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-04 21:14:03,065 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-06 10:45:35,997 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-06 10:48:30,985 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-06 10:48:30,997 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-06 10:48:31,010 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-06 10:48:31,012 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-06 10:48:31,012 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\Carpetas\EROS\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-06 22:34:18,043 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-06 22:34:18,096 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-06 22:34:18,097 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-06 22:34:18,098 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-06 22:34:18,098 [Worker-164: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\Carpetas\EROS\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 10:29:52,683 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-07 11:14:48,854 [Worker-35: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 11:14:48,867 [Worker-35: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 11:14:48,875 [Worker-35: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-07 11:14:48,877 [Worker-35: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 11:14:48,877 [Worker-35: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\Carpetas\EROS\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 12:39:52,705 [Worker-60: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 12:39:52,719 [Worker-60: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 12:39:52,721 [Worker-60: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-07 12:39:52,722 [Worker-60: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 12:39:52,722 [Worker-60: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\Carpetas\EROS\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 13:13:06,308 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-07 13:13:27,044 [Worker-10: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:13:27,049 [Worker-10: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 13:13:27,065 [Worker-10: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-07 13:13:27,084 [Worker-10: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:13:27,085 [Worker-10: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 13:14:06,725 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:14:06,728 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 13:14:06,729 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-07 13:14:06,730 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:14:06,730 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 13:14:59,040 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:14:59,041 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 13:14:59,042 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-07 13:14:59,043 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:14:59,043 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 13:16:38,031 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:16:38,032 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 13:16:38,033 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-07 13:16:38,034 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:16:38,035 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 13:21:56,693 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:21:56,694 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 13:21:56,695 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-07 13:21:56,696 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:21:56,696 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 13:22:01,485 [Worker-16: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:22:01,486 [Worker-16: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 13:22:01,487 [Worker-16: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-07 13:22:01,489 [Worker-16: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 13:22:01,489 [Worker-16: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 14:10:10,155 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 14:10:10,156 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 14:10:10,157 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-07 14:10:10,158 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 14:10:10,158 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 14:12:32,213 [Worker-53: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 14:12:32,213 [Worker-53: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 14:12:32,214 [Worker-53: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-07 14:12:32,216 [Worker-53: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 14:12:32,216 [Worker-53: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 14:28:07,882 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 14:28:07,882 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 14:28:07,882 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-07 14:28:07,883 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 14:28:07,883 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-07 14:30:40,167 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 14:30:40,167 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-07 14:30:40,168 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-07 14:30:40,168 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-07 14:30:40,169 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 19:14:00,799 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-08 20:27:18,153 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:27:18,166 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:27:18,173 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:27:18,175 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:27:18,175 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:29:18,292 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:29:18,294 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:29:18,295 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:29:18,297 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:29:18,297 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:29:32,709 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:29:32,709 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:29:32,710 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:29:32,711 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:29:32,711 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:30:28,996 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:30:28,996 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:30:28,998 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:30:28,999 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:30:28,999 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:32:00,761 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:32:00,762 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:32:00,763 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:32:00,764 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:32:00,764 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:32:16,142 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:32:16,143 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:32:16,144 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:32:16,145 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:32:16,145 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:33:19,740 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:33:19,740 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:33:19,741 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:33:19,743 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:33:19,743 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:33:29,256 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:33:29,257 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:33:29,258 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:33:29,260 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:33:29,260 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:33:56,945 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:33:56,946 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:33:56,947 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:33:56,948 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:33:56,948 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:37:08,030 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:37:08,030 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:37:08,031 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:37:08,032 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:37:08,032 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:37:27,573 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:37:27,574 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:37:27,574 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:37:27,576 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:37:27,576 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:38:00,823 [Worker-54: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:38:00,824 [Worker-54: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:38:00,826 [Worker-54: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:38:00,828 [Worker-54: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:38:00,828 [Worker-54: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:42:20,627 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:42:20,628 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:42:20,629 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:42:20,631 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:42:20,631 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:43:45,563 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:43:45,564 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:43:45,565 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:43:45,566 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:43:45,566 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:46:07,586 [Worker-61: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:46:07,586 [Worker-61: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:46:07,588 [Worker-61: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 20:46:07,591 [Worker-61: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:46:07,592 [Worker-61: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 20:53:54,885 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:53:54,885 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 20:53:54,886 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-08 20:53:54,887 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 20:53:54,887 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 21:17:47,473 [Worker-90: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:17:47,474 [Worker-90: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 21:17:47,474 [Worker-90: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 21:17:47,475 [Worker-90: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:17:47,475 [Worker-90: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 21:44:19,603 [Worker-97: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:44:19,604 [Worker-97: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 21:44:19,605 [Worker-97: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 21:44:19,607 [Worker-97: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:44:19,607 [Worker-97: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 21:46:26,105 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:46:26,105 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-08 21:46:26,105 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 21:46:26,114 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:46:26,114 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 21:52:37,701 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:52:37,702 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 21:52:37,702 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 21:52:37,703 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:52:37,703 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 21:52:40,031 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:52:40,032 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 21:52:40,033 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 21:52:40,034 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:52:40,034 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 21:54:11,624 [Worker-105: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:54:11,625 [Worker-105: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 21:54:11,627 [Worker-105: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 21:54:11,629 [Worker-105: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:54:11,629 [Worker-105: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-08 21:55:17,077 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:55:17,077 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-08 21:55:17,078 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-08 21:55:17,079 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-08 21:55:17,080 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-09 10:07:05,085 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-09 10:07:20,543 [Worker-8: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 10:07:20,556 [Worker-8: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-09 10:07:20,567 [Worker-8: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-09 10:07:20,569 [Worker-8: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 10:07:20,569 [Worker-8: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-09 10:43:18,286 [Worker-21: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 10:43:18,310 [Worker-21: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-09 10:43:18,312 [Worker-21: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-09 10:43:18,313 [Worker-21: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-09 10:43:18,313 [Worker-21: Launching E-Commerce-Service-master - App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DieH\Desktop\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-10 10:07:45,635 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-14 22:03:06,185 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-14 22:03:27,104 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.alexandertutoriales.ecommerce.service:ProjectE-CommerceService:1.0-SNAPSHOT @ C:\Users\PC\Desktop\_Final01\servicio\E-Commerce-Service-master\pom.xml.
+2022-08-14 22:03:40,216 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 22:03:40,222 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-14 22:03:40,240 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-14 22:03:40,511 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 22:03:40,511 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PC\Desktop\_Final01\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-14 22:03:40,587 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.alexandertutoriales.ecommerce.service:ProjectE-CommerceService:1.0-SNAPSHOT @ C:\Users\PC\Desktop\_Final01\servicio\E-Commerce-Service-master\pom.xml.
+2022-08-14 22:03:49,122 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 22:03:49,134 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-14 22:03:49,140 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-08-14 22:03:49,193 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 22:03:49,193 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PC\Desktop\_Final01\servicio\E-Commerce-Service-master\src\test\resources
+2022-08-14 22:04:53,592 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 22:04:53,594 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-14 22:04:53,596 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-14 22:04:53,599 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-14 22:04:53,599 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\PC\Desktop\_Final01\servicio\E-Commerce-Service-master\src\test\resources
